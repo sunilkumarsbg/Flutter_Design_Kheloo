@@ -36,8 +36,8 @@ class _HomePageState extends State<HomePage> {
         floatingActionButton: Padding(
           padding: const EdgeInsets.only(top: 20),
           child: Container(
-            height: 24,
-            width: 24,
+            height: 25,
+            width: 25,
             child: Align(
               alignment: Alignment.bottomCenter,
               child: FloatingActionButton(
